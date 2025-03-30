@@ -58,7 +58,7 @@ function App() {
   return (
     <div className="app">
       <header>
-        <h1>Fish Table Finder</h1>
+        <h1>Table Finder</h1>
         <div className="search-container">
           <input
             type="text"
