@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/guest-finder/static/css/main.5831d5de.css",
+    "main.js": "/guest-finder/static/js/main.94adff24.js",
+    "static/js/453.a5d3b737.chunk.js": "/guest-finder/static/js/453.a5d3b737.chunk.js",
+    "index.html": "/guest-finder/index.html",
+    "main.5831d5de.css.map": "/guest-finder/static/css/main.5831d5de.css.map",
+    "main.94adff24.js.map": "/guest-finder/static/js/main.94adff24.js.map",
+    "453.a5d3b737.chunk.js.map": "/guest-finder/static/js/453.a5d3b737.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5831d5de.css",
+    "static/js/main.94adff24.js"
+  ]
+}
