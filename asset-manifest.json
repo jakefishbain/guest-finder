@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/tables.gillandjake.com/static/css/main.8256f1d2.css",
-    "main.js": "/tables.gillandjake.com/static/js/main.f78832b6.js",
-    "static/js/453.a5d3b737.chunk.js": "/tables.gillandjake.com/static/js/453.a5d3b737.chunk.js",
-    "static/media/background.png": "/tables.gillandjake.com/static/media/background.7b94b3ff764cf0df906c.png",
-    "index.html": "/tables.gillandjake.com/index.html",
-    "main.8256f1d2.css.map": "/tables.gillandjake.com/static/css/main.8256f1d2.css.map",
-    "main.f78832b6.js.map": "/tables.gillandjake.com/static/js/main.f78832b6.js.map",
-    "453.a5d3b737.chunk.js.map": "/tables.gillandjake.com/static/js/453.a5d3b737.chunk.js.map"
+    "main.css": "/static/css/main.00c2682a.css",
+    "main.js": "/static/js/main.ce793def.js",
+    "static/js/453.a5d3b737.chunk.js": "/static/js/453.a5d3b737.chunk.js",
+    "static/media/background.png": "/static/media/background.7b94b3ff764cf0df906c.png",
+    "index.html": "/index.html",
+    "main.00c2682a.css.map": "/static/css/main.00c2682a.css.map",
+    "main.ce793def.js.map": "/static/js/main.ce793def.js.map",
+    "453.a5d3b737.chunk.js.map": "/static/js/453.a5d3b737.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8256f1d2.css",
-    "static/js/main.f78832b6.js"
+    "static/css/main.00c2682a.css",
+    "static/js/main.ce793def.js"
   ]
 }
