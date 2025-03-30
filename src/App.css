@@ -7,10 +7,16 @@
 
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background-color: #f5f5f5;
+  /* background-color: #f5f5f5; */
   color: #333;
   height: 100vh;
   overflow-y: auto;
+  background-image: url('assets//background.png');
+  background-size: 30%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: rgba(255,255,255,0.8);
+  background-blend-mode: lighten;
 }
 
 .app {

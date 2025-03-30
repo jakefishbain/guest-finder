@@ -1,6 +1,8 @@
 import React, { useState, useEffect, useRef } from 'react';
 import './App.css';
 
+import backgroundImage from './assets/background.png';
+
 function App() {
   const [data, setData] = useState([]);
   const [searchTerm, setSearchTerm] = useState('');
