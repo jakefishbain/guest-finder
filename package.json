@@ -2,7 +2,7 @@
   "name": "guest-finder",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jakefishbain.github.io/guest-finder",
+  "homepage": "tables.gillandjake.com",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
