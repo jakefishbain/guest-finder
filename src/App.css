@@ -12,8 +12,9 @@ body {
   height: 100vh;
   overflow-y: auto;
   background-image: url('assets//background.png');
-  background-size: 30%;
+  background-size: 50%;
   background-position: center;
+  background-attachment: fixed;
   background-repeat: no-repeat;
   background-color: rgba(255,255,255,0.8);
   background-blend-mode: lighten;
