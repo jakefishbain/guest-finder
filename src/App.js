@@ -72,7 +72,7 @@ function App() {
   return (
     <div className="app">
       <header>
-        <h1>Guest Table Finder</h1>
+        <h1>Find Your Seat!</h1>
         <div className="search-container">
           <input
             ref={searchInputRef}
