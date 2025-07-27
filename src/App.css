@@ -114,3 +114,19 @@ main {
   /* color: black; */
   font-weight: 500;;
 }
+
+input::-webkit-input-placeholder {
+  font-family: 'Brush Script MT';
+}
+
+input:-ms-input-placeholder {
+  font-family: 'Brush Script MT';
+}
+
+input:-moz-placeholder {
+  font-family: 'Brush Script MT';
+}
+
+input::-moz-placeholder {
+  font-family: 'Brush Script MT';
+}
