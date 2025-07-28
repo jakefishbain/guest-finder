@@ -51,11 +51,13 @@ h1 {
 }
 
 .search-input {
+  font-family: 'RomanticCouple';
+  text-indent: 14px;
   width: 100%;
   max-width: 500px;
   padding: 12px 20px;
   font-size: 28px;
-  font-weight: 600;
+  font-weight: 800;
   background-color: #FAFAFA;
   border: 2px solid #ddd;
   border-radius: 25px;
