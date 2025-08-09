@@ -99,7 +99,7 @@ function App() {
               filteredData.map((person, index) => (
                 <div className="guest-card" key={index}>
                   <div className="guest-name">{person.firstName} {person.lastName}</div>
-                  <div className="table-number">Table {person.tableNumber}</div>
+                  {person.tableNumber == 'Head' ? <div className="table-number">Head Table</div> : <div className="table-number">Table {person.tableNumber}</div>}
                 </div>
               ))
             )}
