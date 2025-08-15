@@ -65,7 +65,9 @@ function App() {
     const searchLower = searchTerm.toLowerCase();
     return (
       person.firstName.toLowerCase().includes(searchLower) ||
-      person.lastName.toLowerCase().includes(searchLower)
+      person.lastName.toLowerCase().includes(searchLower) || 
+      (person.firstName + person.lastName).toLowerCase().includes(searchLower) ||
+      (person.firstName + ' ' + person.lastName).toLowerCase().includes(searchLower)
     );
   });
 
